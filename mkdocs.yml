@@ -1,0 +1,130 @@
+# Project information
+site_name: Beephids TTRPG Hub
+site_url: https://beephids.github.io/ttrpg/
+site_author: Brett Fiedler
+site_description: >-
+  A collection of information and resources for tabletop roleplaying games in games run by Brett!
+
+# Repository
+repo_name: beephids/ttrpg
+repo_url: https://github.com/Beephid/ttrpg
+
+# Configuration
+theme:
+  name: material
+  # custom_dir: material/.overrides
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  favicon:
+  logo:
+  name: material
+  palette:
+  - media: '(prefers-color-scheme: light)'
+    primary: deep purple
+    accent: teal
+    scheme: default
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - media: '(prefers-color-scheme: dark)'
+    primary: deep purple
+    accent: teal
+    scheme: slate
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
+
+# Customization
+extra:
+  annotate:
+    json: [.s2]
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Beephid/ttrpg
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+nav:
+    - Home: index.md
+    - Dungeons and Dragons:
+      - D&D Introduction: dnd/dnd-intro.md
+      - House Rules: dnd/house-rules.md
+    - FATE: 
+      - FATE Introduction: fate/fate-intro.md
+    - Notes:
+      - Family Introduction: notes/family.md
+      - Lacus Enodatio: notes/lellc.md 
+      - Sword Mountains: notes/sword-mountains.md
+      - First Introduction: notes/first-intro.md
