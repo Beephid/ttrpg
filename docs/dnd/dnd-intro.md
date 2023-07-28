@@ -16,7 +16,7 @@ Now, envision a story shaped entirely by **your choices**, not limited to a few 
 
 **This is the essence of Dungeons & Dragons (D&D)**. It is one of many Tabletop RPGs, set in a fantasy world, granting players limitless possibilities in how they play. However, since an entirely boundless sandbox can be overwhelming and less enjoyable, D&D provides rules, advice, and structure to navigate the world and make the experience fun. 🎭📘
 
-## <span style="color:orange">A Typical Setting: The Forgotten Realms 🏰🌄</span>
+## <span style="color:orange">Example Setting: The Forgotten Realms 🏰🌄</span>
 
 In D&D, the world can be anything the Dungeon Master (DM) and players can imagine. It might be a swords-and-sorcery setting with barbarians battling evil sorcerers or a post-apocalyptic fantasy where elves and dwarves wield magic amidst the ruins of a technological civilization. Most D&D settings lie somewhere between these two extremes: medieval high fantasy worlds with knights, castles, elven cities, dwarven mines, and fearsome monsters. 🗺️🧝‍♂️🧙‍♀️🐉
 
@@ -142,3 +142,5 @@ Most situations come down to a roll of the dice and your stats, *not your succes
 
 4. Min-Maxing
       - Choose the character traits and abilities that you want to play. Don’t worry too much if your character is not “optimal”. If you have any concerns about your character’s strength - let me know! Try to have some non-combat abilities and skills to spice up the other 80% of the game. D&D is a very balanced game, and you can get away with basically anything within reason.
+
+For more detailed, specific house rules and expectations at the table, see the [House Rules section](/house-rules.md)
