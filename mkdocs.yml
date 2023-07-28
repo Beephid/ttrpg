@@ -43,21 +43,21 @@ theme:
   palette:
   - media: '(prefers-color-scheme: light)'
     primary: deep purple
-    accent: teal
+    accent: green
     scheme: default
     toggle:
       icon: material/brightness-7
       name: Switch to dark mode
   - media: '(prefers-color-scheme: dark)'
     primary: deep purple
-    accent: teal
+    accent: green
     scheme: slate
     toggle:
       icon: material/brightness-4
       name: Switch to light mode
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Gill Sans, Arial, sans-serif
+    code: Consolas, "Courier New", monospace
 
 # Plugins
 plugins:

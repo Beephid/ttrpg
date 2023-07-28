@@ -1,6 +1,6 @@
-!!! warning "Subject to Change" 
+!!! tip "Where to start?" 
       
-      This is a living document and may change at any time!
+      Read pages 2-5 of the [Basic Rules PDF](../resources/PlayerDnDBasicRules_v0.2_PrintFriendly.pdf). It will give you a good idea of what D&D is and how it works. You can also watch the videos in the [Resources section](resources.md) for a quick overview.
 ## <span style="color:orange">What is D&D (Dungeons & Dragons)? 🐉🎲</span>
 
 Imagine a video game where you have the freedom to do anything, unrestricted by technology or developer limitations:
@@ -61,6 +61,10 @@ Your character sheet in D&D is primarily determined by your chosen stats (abilit
 
 ### Character Sheet Details
 
+!!! tip
+
+      This is a short overview of the character sheet. For a more detailed explanation, check out [Chapter 1](https://www.dndbeyond.com/sources/basic-rules/step-by-step-characters) of the Basic Rules. Then... the rest of it. Or just play the game and learn as you go! There's also a silly, albeit long, video overview of the character sheet in the [Resources section](resources.md).
+
 **1. Character Sheet Overview:**
 A D&D character sheet is a document used to track the essential details of your player character. It contains various sections to record information such as your character's name, race, class, background, ability scores, skills, equipment, and more.
 
@@ -95,13 +99,13 @@ Choosing a race and class for your character can significantly impact their abil
 
 When selecting a race and class, consider how their inherent abilities align with your desired playstyle and role in the party. For example, if you want to play a sneaky rogue, a race with a Dexterity bonus 🏹 and a class that provides proficiency in Stealth and Sleight of Hand skills would be a good fit.
 
-### Huge Caveat! 🚨🛑
+!!! warning "Huge Caveat! 🚨"
 
-**What you can do is not limited to the skills and actions on your character sheet.**
+      **What you can do is not limited to the skills and actions on your character sheet.**
 
-Your character sheet simply influences your likelihood of succeeding.
+      Your character sheet simply influences your likelihood of succeeding.
 
-If you have an idea of something you want to do, you can always try (or just ask!) and we will figure out what we need to roll to determine the outcome!
+      If you have an idea of something you want to do, you can always try (or just ask!) and we will figure out what we need to roll to determine the outcome!
 
 ## A few big picture thoughts 🌠🎭
 

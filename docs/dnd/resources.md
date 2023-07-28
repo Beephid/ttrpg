@@ -2,6 +2,7 @@
 
 Here are a few extra resources that you might find useful:
 
+- [Basic Rules PDF](../resources/PlayerDnDBasicRules_v0.2_PrintFriendly.pdf)
 - [Fillable PDF of Fifth Edition Character Sheet](../resources/5E_CharacterSheet_Fillable.pdf) 
 - [Quick Reference for Fifth Edition](../resources/1453821-Core_5e_Knowledge_-_Quick_Reference_PDF.pdf)
 - [Combat Actions Quick Reference](../resources/1453821-DnD_Actions_-_Quick_Reference_PDF_by_Dungeon_Influence.pdf) 
