@@ -16,7 +16,7 @@ Now, envision a story shaped entirely by **your choices**, not limited to a few 
 
 **This is the essence of Dungeons & Dragons (D&D)**. It is one of many Tabletop RPGs, set in a fantasy world, granting players limitless possibilities in how they play. However, since an entirely boundless sandbox can be overwhelming and less enjoyable, D&D provides rules, advice, and structure to navigate the world and make the experience fun. 🎭📘
 
-## A Typical Setting: The Forgotten Realms 🏰🌄
+## <span style="color:orange">A Typical Setting: The Forgotten Realms 🏰🌄</span>
 
 In D&D, the world can be anything the Dungeon Master (DM) and players can imagine. It might be a swords-and-sorcery setting with barbarians battling evil sorcerers or a post-apocalyptic fantasy where elves and dwarves wield magic amidst the ruins of a technological civilization. Most D&D settings lie somewhere between these two extremes: medieval high fantasy worlds with knights, castles, elven cities, dwarven mines, and fearsome monsters. 🗺️🧝‍♂️🧙‍♀️🐉
 
@@ -26,7 +26,7 @@ On the roads and rivers of the Realms, minstrels, peddlers, merchants, guards, s
 
 However, even well-traveled roads are not safe. The Realms are fraught with dangers, including fel magic, deadly monsters, and ruthless rulers. Even farms near cities can fall prey to monsters, and nowhere is safe from the sudden wrath of a dragon. 🌋🐲
 
-## Setting TL;DR 📚🤏
+## <span style="color:orange">Setting TL;DR 📚🤏</span>
 
 - The world can be anything we want it to be - but let’s start here. 
 - This one is a medieval fantasy setting where magic, monsters, and god-like beings exist. Period. They play an enormous role in shaping history and society. (For instance, how would the world of Harry Potter change if magic were a part of regular society and not secreted away? Or our own reality?)
@@ -35,7 +35,7 @@ However, even well-traveled roads are not safe. The Realms are fraught with dang
 - All of these points influence how the towns, cities, civilizations, etc are structured. It influences what kinds of organizations and people rise to power and how. It influences how people will react to you and the actions/choices you make in the game.
 
 
-## The Flow of the Game 💫🎮
+## <span style="color:orange">The Flow of the Game 💫</span>
 
 ![Game Flow](game-flow.png)
 
@@ -49,7 +49,7 @@ The game generally follows this flow:
 
 `Repeat.`
 
-## The Character Sheet 📄🧾
+## <span style="color:orange">The Character Sheet 📄</span>
 
 Your character sheet in D&D is primarily determined by your chosen stats (ability scores). These stats serve as the foundation for all other numbers on the sheet. Everything else modifies these baseline stats.
 
@@ -59,7 +59,7 @@ Your character sheet in D&D is primarily determined by your chosen stats (abilit
 
 **Almost everything you do comes down to a `Dice Roll + Ability + (other bonuses when applicable)`**
 
-### Character Sheet Details
+### <span style="color:orange">Character Sheet Details</span>
 
 !!! tip
 
@@ -107,7 +107,7 @@ When selecting a race and class, consider how their inherent abilities align wit
 
       If you have an idea of something you want to do, you can always try (or just ask!) and we will figure out what we need to roll to determine the outcome!
 
-## A few big picture thoughts 🌠🎭
+## <span style="color:orange">A few big picture thoughts 🌠🎭</span>
 
 The most important part is that folks are having fun. If anything feels off or you have suggestions, please let me know. 🙋‍♂️🙋‍♀️
 
@@ -118,7 +118,7 @@ Your job as a player is to know your character and make choices about what you w
 - The GM figures out how your choices fit within the situation, the world, and the D&D ruleset. 
 - The GM provides the bones of the adventure, and through playing, we flesh it out.
 
-## Roleplaying 🎭👥
+## <span style="color:orange">Roleplaying 🎭👥</span>
 
 D&D opens up a lot of space for roleplay - BUT! Roleplay has a super fluid definition. 
 
@@ -130,15 +130,15 @@ Most situations come down to a roll of the dice and your stats, *not your succes
 
       The definition of roleplay that works best in this setting is making choices that your character would make, with the knowledge, history, and expertise they have (rather than choices you would make or think are best).
 
-## And a few expectations 🤝🧾
+## <span style="color:orange">And a few expectations 🤝🧾</span>
 
-1. Ask all of the questions. I’m learning, too. 🙋‍♂️❓
+1. 🙋‍♂️❓Ask all of the questions. I’m learning, too.
 
 2. Combat happens in turns - it is the slowest part of the game. It will be especially slow at first as folks learn how to use their character sheet and what to roll. 
-> You are welcome to tune out mentally/physically when it’s not your turn. HOWEVER, make sure you know what you want to do when your turn comes. Use other people’s turns to plan. Look over your character sheet. Learn your abilities. This significantly speeds up combat! ⚔️💨
+      - You are welcome to tune out mentally/physically when it’s not your turn. HOWEVER, make sure you know what you want to do when your turn comes. Use other people’s turns to plan. Look over your character sheet. Learn your abilities. This significantly speeds up combat!
 
 3. Metagaming: Ideally, you are your character and only know what your character knows. 
-> We are likely to use published adventures - please don’t spoil anything for yourself! There’s also a good chance I’ve changed the details or outcomes and things may not go as you read.
+      - We are likely to use published adventures - please don’t spoil anything for yourself! There’s also a good chance I’ve changed the details or outcomes and things may not go as you read.
 
 4. Min-Maxing
-> Choose the character traits and abilities that you want to play. Don’t worry too much if your character is not “optimal”. If you have any concerns about your character’s strength - let me know! Try to have some non-combat abilities and skills to spice up the other 80% of the game. D&D is a very balanced game, and you can get away with basically anything within reason. 🤝📜🎲
+      - Choose the character traits and abilities that you want to play. Don’t worry too much if your character is not “optimal”. If you have any concerns about your character’s strength - let me know! Try to have some non-combat abilities and skills to spice up the other 80% of the game. D&D is a very balanced game, and you can get away with basically anything within reason.
