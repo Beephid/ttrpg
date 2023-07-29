@@ -54,7 +54,7 @@ The game generally follows this flow:
 Your character sheet in D&D is primarily determined by your chosen stats (ability scores). These stats serve as the foundation for all other numbers on the sheet. Everything else modifies these baseline stats.
 
 - Class (and subclass) choice guides your primary stats.
-- Race (formerly known as Species) adds bonuses to specific stats and provides other features.
+- Species (formerly known as Race) adds bonuses to specific stats and provides other features.
 - Background choice adds bonuses and unique features.
 
 **Almost everything you do comes down to a `Dice Roll + Ability + (other bonuses when applicable)`**
@@ -66,7 +66,7 @@ Your character sheet in D&D is primarily determined by your chosen stats (abilit
       This is a short overview of the character sheet. For a more detailed explanation, check out [Chapter 1](https://www.dndbeyond.com/sources/basic-rules/step-by-step-characters) of the Basic Rules. Then... the rest of it. Or just play the game and learn as you go! There's also a silly, albeit long, video overview of the character sheet in the [Resources section](resources.md).
 
 **1. Character Sheet Overview:**
-A D&D character sheet is a document used to track the essential details of your player character. It contains various sections to record information such as your character's name, race, class, background, ability scores, skills, equipment, and more.
+A D&D character sheet is a document used to track the essential details of your player character. It contains various sections to record information such as your character's name, species, class, background, ability scores, skills, equipment, and more.
 
 **2. Ability Scores:**
 Ability scores represent your character's inherent strengths and weaknesses. They are numerical values that determine your character's capabilities in various aspects of the game. D&D 5th Edition uses six ability scores:
@@ -78,7 +78,7 @@ Ability scores represent your character's inherent strengths and weaknesses. The
 - **Wisdom (WIS):** Represents intuition, perception, and insight.
 - **Charisma (CHA):** Reflects personality, presence, and social abilities.
 
-The scores range from 1 to 20, with 10 being the average for a typical human. During character creation, you will roll dice or use a point-buy system to determine these scores. Different races and classes might provide bonuses or penalties to specific ability scores, which can influence your character's playstyle and effectiveness.
+The scores range from 1 to 20, with 10 being the average for a typical human. During character creation, you will roll dice or use a point-buy system to determine these scores. Different species and classes might provide bonuses or penalties to specific ability scores, which can influence your character's playstyle and effectiveness.
 
 **3. Skills:**
 Skills are abilities or proficiencies that reflect your character's training, knowledge, and experience in certain areas. Each skill is associated with one of the six ability scores. For example:
@@ -90,14 +90,14 @@ Skills are abilities or proficiencies that reflect your character's training, kn
 
 The proficiency bonus is a key factor in determining your character's effectiveness with skills. As you gain levels, your proficiency bonus increases, making you better at skills you are proficient in.
 
-**4. Class and Race Impact on Ability Scores and Skills:**
-Choosing a race and class for your character can significantly impact their ability scores and skills:
+**4. Class and Species Impact on Ability Scores and Skills:**
+Choosing a species and class for your character can significantly impact their ability scores and skills:
 
-- **Race:** Each race grants specific ability score modifiers. For example, a race might give you a +2 bonus to Dexterity and a +1 bonus to Intelligence. This means your Dexterity score would increase by 2, and your Intelligence score would increase by 1. These modifiers help tailor your character's strengths based on their racial attributes.
+- **Species:** Each species grants specific ability score modifiers. For example, a species might give you a +2 bonus to Dexterity and a +1 bonus to Intelligence. This means your Dexterity score would increase by 2, and your Intelligence score would increase by 1. These modifiers help tailor your character's strengths based on their racial attributes.
 
 - **Class:** Each class has preferred ability scores that enhance its effectiveness. For instance, a Fighter typically benefits from high Strength or Dexterity, while a Wizard relies on high Intelligence. Additionally, certain classes grant proficiency in specific skills, making your character more skilled in those areas.
 
-When selecting a race and class, consider how their inherent abilities align with your desired playstyle and role in the party. For example, if you want to play a sneaky rogue, a race with a Dexterity bonus 🏹 and a class that provides proficiency in Stealth and Sleight of Hand skills would be a good fit.
+When selecting a species and class, consider how their inherent abilities align with your desired playstyle and role in the party. For example, if you want to play a sneaky rogue, a species with a Dexterity bonus 🏹 and a class that provides proficiency in Stealth and Sleight of Hand skills would be a good fit.
 
 !!! warning "Huge Caveat! 🚨"
 
@@ -143,4 +143,4 @@ Most situations come down to a roll of the dice and your stats, *not your succes
 4. Min-Maxing
       - Choose the character traits and abilities that you want to play. Don’t worry too much if your character is not “optimal”. If you have any concerns about your character’s strength - let me know! Try to have some non-combat abilities and skills to spice up the other 80% of the game. D&D is a very balanced game, and you can get away with basically anything within reason.
 
-For more detailed, specific house rules and expectations at the table, see the [House Rules section](/house-rules.md)
+For more detailed, specific house rules and expectations at the table, see the [House Rules section](house-rules.md)
